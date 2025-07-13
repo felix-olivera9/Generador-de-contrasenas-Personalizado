@@ -27,7 +27,7 @@ Componente Java Swing personalizado que genera contraseñas seguras con múltipl
 
 ## 🚀 Instrucciones de Uso
 
-1. ## 🖥 Integración en Entornos Visuales (NetBeans)
+ ## 🖥 Integración en Entornos Visuales (NetBeans)
 
 **Agrega el botón a la paleta de NetBeans** 
 
@@ -38,24 +38,26 @@ Componente Java Swing personalizado que genera contraseñas seguras con múltipl
    - Localiza el componente "GeneradorDeContraseñas" en la paleta de componentes
    - Arrástralo directamente a tu formulario JFrame/JPanel
 
-2. **Propiedades** (editor de propiedades)  
+  ## Propiedades (editor de propiedades)  
    ```properties
    tipo: "Todo" | "Solo numeros" | "Solo mayusculas" | etc.
    usarIcono: true/false
    usarColor: true/false
    text: "Texto personalizado"
-3. **Configurar propiedades**
+ ```
+**Descripcion de propiedades**
   - Cambia entre 5 tipos de contraseñas con estilos predefinidos
   - Activa/desactiva iconos con un checkbox
   - Modifica colores con un checkbox
-4. **Créditos**:
+  - Inserta un texto en el boton
+ ## Créditos:
     
    - Equipo 10-TAP verano:
       - Jose Jose Osvaldo
       - Olivera Jimenez Felix Eliel
-5. **Javadoc**:
+ ## Javadoc:
      file:///C:/Users/felix/OneDrive/Documentos/NetBeansProjects/GeneradorContrase%C3%B1as/dist/javadoc/GeneradorDeContrase%C3%B1as/package-summary.html
-4. **Video**:
+## Video de Youtube:
      
-     - Vido de youtube: (https://youtu.be/NYPSXlkysns)
+     https://youtu.be/NYPSXlkysns
      
