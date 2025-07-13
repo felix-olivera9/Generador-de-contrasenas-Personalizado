@@ -1,4 +1,4 @@
-# Generador-de-contrasenas-Personalizado
+# Generador-de-contraseñas-Personalizado
 
 
 ![Ejemplo visual del componente](Componente_Ejemplo.png)
@@ -53,8 +53,8 @@ Componente Java Swing personalizado que genera contraseñas seguras con múltipl
    - Columnas para Rol y Contribución específica
    - Fácil de actualizar
 5. **Javadoc**:
-     - file:///C:/Users/felix/OneDrive/Documentos/NetBeansProjects/GeneradorContrase%C3%B1as/dist/javadoc/GeneradorDeContrase%C3%B1as/package-summary.html
+     file:///C:/Users/felix/OneDrive/Documentos/NetBeansProjects/GeneradorContrase%C3%B1as/dist/javadoc/GeneradorDeContrase%C3%B1as/package-summary.html
 4. **Video**:
      
-     - https://youtu.be/5E_n5iqR3Zo?si=8Xdq4_h33ilXx1yx
+     - Vido de youtube: (https://youtu.be/NYPSXlkysns)
      
