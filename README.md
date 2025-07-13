@@ -1,7 +1,7 @@
 # Generador-de-contrasenas-Personalizado
 
 
-![Ejemplo visual del componente](C:/Users/felix/OneDrive/Imágenes/Screenshots/Captura de pantalla 2025-07-12 175512.png)
+![Ejemplo visual del componente](C:/Users/felix/OneDrive/Escritorio/Captura de pantalla 2025-07-12 175512.png)
 
 ## 📝 Descripción
 Componente Java Swing personalizado que genera contraseñas seguras con múltiples opciones de configuración. Permite:
